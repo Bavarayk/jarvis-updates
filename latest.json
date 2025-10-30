@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "update_url": "https://gitlab.com/baveraykoc/jarvis-updates/-/raw/main/jarvis_update.zip",
+  "changelog": "İlk güncelleme: performans artışı, çoklu coin analiz eklendi."
+}
